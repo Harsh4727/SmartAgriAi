@@ -108,7 +108,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-API_KEY = "Your_API_KEY"
+API_KEY = "e010615efab1f789840c0bbbca2a7e4c"
 
 # @app.get("/weather")
 # def get_weather(city: str):
